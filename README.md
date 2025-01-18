@@ -16,4 +16,4 @@
 Given below are my weekly write-ups describing my progress, my development process, challenges I overcame, and things I learnt along the way!
 
 
-![Write Up Assignment 01 - GAMES6320.pdf](https://github.com/user-attachments/files/18463567/Write.Up.Assignment.01.-.GAMES6320.pdf)
+![embed](https://github.com/user-attachments/files/18463567/Write.Up.Assignment.01.-.GAMES6320.pdf)[/embed]
