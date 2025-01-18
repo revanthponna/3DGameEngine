@@ -11,8 +11,6 @@
   5. Implemented my own Networking System using the UDP Client-Server model, that supports real-time communication between multiple clients of a game.
   6. Put together a final multiplayer space-shooting game to showcase all the various engine systems I worked on.
 
-## Getting started
+Given below are my weekly write-ups describing my progress, my development process, challenges I overcame, and things I learnt along the way!
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Weekly Write-Ups
